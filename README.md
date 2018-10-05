@@ -1,8 +1,12 @@
 Diagrama: 
+
 ![Diagram](Diagrama.PNG)
 
 Capturas:
+
 ![Training](Training.PNG)
+
+
 ![Testing](Testing.PNG)
 
 Tecnologias:
